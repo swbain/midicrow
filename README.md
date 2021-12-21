@@ -7,4 +7,4 @@ crow out 1: v/oct pitch
 
 crow out 2: gate
 
-implementing as a standalone script first. will eventually create a norns mod as well.
+longer term goals: two device support, norns mod
